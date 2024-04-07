@@ -8,15 +8,16 @@ import net.minecraftforge.registries.RegistryObject;
 import net.mobmasher21.create_oompa_loompas.CreateOompaLoompas;
 import net.mobmasher21.create_oompa_loompas.block.ModBlocks;
 
-public class ModBlockStateProvider extends BlockStateProvider {
-    public ModBlockStateProvider(PackOutput output, ExistingFileHelper exFileHelper) {
+public class ModBlockStatesProvider extends BlockStateProvider {
+    public ModBlockStatesProvider(PackOutput output, ExistingFileHelper exFileHelper) {
         super(output, CreateOompaLoompas.MOD_ID, exFileHelper);
     }
 
     @Override
     protected void registerStatesAndModels() {
-        blockWithItem(ModBlocks.IMAGINITE_BLOCK);
         blockWithItem(ModBlocks.IMAGINATION_ESSENCE_BLOCK);
+        blockWithItem(ModBlocks.IMAGINITE_BLOCK);
+
     }
 
     private void blockWithItem(RegistryObject<Block> blockRegistryObject) {

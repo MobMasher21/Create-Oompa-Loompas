@@ -18,13 +18,13 @@ public class ModItemModelProvider extends ItemModelProvider {
     @Override
     protected void registerModels() {
         simpleItem(ModItems.IMAGINATION_CRYSTAL);
-        simpleItem(ModItems.IMAGINITE_BAR);
         simpleItem(ModItems.IMAGINATION_ESSENCE);
+        simpleItem(ModItems.IMAGINITE_BAR);
     }
 
     private ItemModelBuilder simpleItem(RegistryObject<Item> item) {
         return withExistingParent(item.getId().getPath(),
                 new ResourceLocation("item/generated")).texture("layer0",
-                new ResourceLocation(CreateOompaLoompas.MOD_ID,"item/" + item.getId().getPath()));
+                new ResourceLocation(CreateOompaLoompas.MOD_ID, "item/" + item.getId().getPath()));
     }
 }
