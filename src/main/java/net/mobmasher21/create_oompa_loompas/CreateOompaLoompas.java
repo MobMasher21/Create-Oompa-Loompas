@@ -1,5 +1,11 @@
 package net.mobmasher21.create_oompa_loompas;
 
+import net.minecraft.client.renderer.ItemBlockRenderTypes;
+import net.minecraft.client.renderer.RenderType;
+import net.minecraft.world.item.CreativeModeTabs;
+import net.mobmasher21.create_oompa_loompas.block.ModBlocks;
+import net.mobmasher21.create_oompa_loompas.item.ModCreativeModTabs;
+import net.mobmasher21.create_oompa_loompas.item.ModItems;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -23,6 +29,11 @@ public class CreateOompaLoompas {
 
     public CreateOompaLoompas() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModCreativeModTabs.register(modEventBus);
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
