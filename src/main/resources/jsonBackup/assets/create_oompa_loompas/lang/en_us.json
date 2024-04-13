@@ -1,0 +1,22 @@
+{
+  "item.create_oompa_loompas.imagination_crystal": "§bCrystallized Imagination",
+  "item.create_oompa_loompas.imagination_essence": "Essence of Imagination",
+  "item.create_oompa_loompas.imaginite_bar": "§dImaginite Bar",
+
+  "item.create_oompa_loompas.snozzberry": "Snozzberry",
+
+  "block.create_oompa_loompas.imaginite_block": "§dBlock of Imaginite",
+  "block.create_oompa_loompas.imagination_essence_block": "Block of Pure Imagination",
+
+  "block.create_oompa_loompas.imaginite_stairs": "§dImaginite Stairs",
+  "block.create_oompa_loompas.imaginite_slab": "§dImaginite Slab",
+  "block.create_oompa_loompas.imaginite_button": "§dImaginite Button",
+  "block.create_oompa_loompas.imaginite_pressure_plate": "§dImaginite Pressure Plate",
+  "block.create_oompa_loompas.imaginite_fence":  "§dImaginite Fence",
+  "block.create_oompa_loompas.imaginite_fence_gate": "§dImaginite Fence Gate",
+  "block.create_oompa_loompas.imaginite_wall":  "§dImaginite Wall",
+  "block.create_oompa_loompas.imaginite_door": "§dImaginite Door",
+  "block.create_oompa_loompas.imaginite_trapdoor": "§dImaginite Trapdoor",
+
+  "creativetab.oompa_loompa_tab": "Create: Oompa Loompas"
+}

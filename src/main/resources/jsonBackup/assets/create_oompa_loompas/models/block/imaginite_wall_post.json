@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "create_oompa_loompas:block/imaginite_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "create_oompa_loompas:block/imaginite_slab"
+    },
+    "type=double": {
+      "model": "create_oompa_loompas:block/imaginite_block"
+    },
+    "type=top": {
+      "model": "create_oompa_loompas:block/imaginite_slab_top"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "create_oompa_loompas:block/imagination_essence_block"
+  },
+  "render_type": "translucent"
+}

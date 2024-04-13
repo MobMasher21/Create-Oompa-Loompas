@@ -1,0 +1,14 @@
+{
+  "values": [
+    "create_oompa_loompas:imaginite_block",
+    "create_oompa_loompas:imaginite_stairs",
+    "create_oompa_loompas:imaginite_slab",
+    "create_oompa_loompas:imaginite_fence",
+    "create_oompa_loompas:imaginite_fence_gate",
+    "create_oompa_loompas:imaginite_wall",
+    "create_oompa_loompas:imaginite_door",
+    "create_oompa_loompas:imaginite_trapdoor",
+    "create_oompa_loompas:imaginite_pressure_plate",
+    "create_oompa_loompas:imagination_essence_block"
+  ]
+}

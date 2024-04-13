@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "create_oompa_loompas:imaginite_bar"
+    }
+  },
+  "result": {
+    "item": "create_oompa_loompas:imaginite_block",
+    "count": 1
+  }
+}

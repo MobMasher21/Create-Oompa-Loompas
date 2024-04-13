@@ -1,0 +1,48 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "tutorialmod:block/sapphire_fence_post"
+      }
+    },
+    {
+      "apply": {
+        "model": "tutorialmod:block/sapphire_fence_side",
+        "uvlock": true
+      },
+      "when": {
+        "north": "True"
+      }
+    },
+    {
+      "apply": {
+        "model": "tutorialmod:block/sapphire_fence_side",
+        "uvlock": true,
+        "y": 180
+      },
+      "when": {
+        "south": "True"
+      }
+    },
+    {
+      "apply": {
+        "model": "tutorialmod:block/sapphire_fence_side",
+        "uvlock": true,
+        "y": 270
+      },
+      "when": {
+        "west": "True"
+      }
+    },
+    {
+      "apply": {
+        "model": "tutorialmod:block/sapphire_fence_side",
+        "uvlock": true,
+        "y": 90
+      },
+      "when": {
+        "east": "True"
+      }
+    }
+  ]
+}

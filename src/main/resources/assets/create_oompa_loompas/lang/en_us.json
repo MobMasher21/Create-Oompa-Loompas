@@ -1,0 +1,10 @@
+{
+  "item.create_oompa_loompas.imagination_crystal": "§bCrystallized Imagination",
+  "item.create_oompa_loompas.imagination_essence": "Essence of Imagination",
+  "item.create_oompa_loompas.imaginite_bar": "§dImaginite Bar",
+
+  "block.create_oompa_loompas.imaginite_block": "§dBlock of Imaginite",
+  "block.create_oompa_loompas.imagination_essence_block": "Block of Pure Imagination",
+
+  "creativetab.oompa_loompa_tab": "Create: Oompa Loompas"
+}

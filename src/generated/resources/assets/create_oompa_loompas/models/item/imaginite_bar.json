@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "create_oompa_loompas:item/imaginite_bar"
+  }
+}

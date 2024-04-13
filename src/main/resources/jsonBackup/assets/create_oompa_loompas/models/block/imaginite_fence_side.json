@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "create_oompa_loompas:block/imaginite_block"
+  }
+}

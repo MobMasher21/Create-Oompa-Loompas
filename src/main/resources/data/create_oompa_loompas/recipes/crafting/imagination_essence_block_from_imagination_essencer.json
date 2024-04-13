@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "create_oompa_loompas:imagination_essence"
+    }
+  },
+  "result": {
+    "item": "create_oompa_loompas:imagination_essence_block",
+    "count": 1
+  }
+}

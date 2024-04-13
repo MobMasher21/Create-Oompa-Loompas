@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "create_oompa_loompas:block/imaginite_door_bottom",
+    "top": "create_oompa_loompas:block/imaginite_door_top"
+  }
+}
