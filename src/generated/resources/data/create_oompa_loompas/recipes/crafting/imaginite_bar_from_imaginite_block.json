@@ -3,11 +3,12 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "create_oompa_loompas:imagination_essence_block"
+      "item": "create_oompa_loompas:imaginite_block",
+      "count": 1
     }
   ],
   "result": {
-    "item": "create_oompa_loompas:imagination_essence",
+    "item": "create_oompa_loompas:imaginite_bar",
     "count": 9
   }
 }

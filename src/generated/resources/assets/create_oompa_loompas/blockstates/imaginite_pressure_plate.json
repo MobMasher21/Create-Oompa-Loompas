@@ -1,7 +1,7 @@
 {
   "variants": {
     "powered=false": {
-      "model": "create_oompa_loompas:block/imaginite_pressure_plate_up"
+      "model": "create_oompa_loompas:block/imaginite_pressure_plate"
     },
     "powered=true": {
       "model": "create_oompa_loompas:block/imaginite_pressure_plate_down"

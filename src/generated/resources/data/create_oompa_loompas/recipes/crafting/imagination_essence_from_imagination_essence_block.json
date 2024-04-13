@@ -3,7 +3,8 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "create_oompa_loompas:imagination_essence_block"
+      "item": "create_oompa_loompas:imagination_essence_block",
+      "count": 1
     }
   ],
   "result": {

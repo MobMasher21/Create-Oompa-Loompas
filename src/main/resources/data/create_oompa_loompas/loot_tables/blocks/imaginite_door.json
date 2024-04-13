@@ -11,11 +11,20 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "create_oompa_loompas:imaginite_stairs"
+          "conditions": [
+            {
+              "block": "create_oompa_loompas:imaginite_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ],
+          "name": "create_oompa_loompas:imaginite_door"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "create_oompa_loompas:block/imaginite_stairs"
+  "random_sequence": "create_oompa_loompas:blocks/imaginite_door"
 }

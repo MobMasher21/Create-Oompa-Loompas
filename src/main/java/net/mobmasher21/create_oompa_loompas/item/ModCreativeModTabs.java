@@ -22,7 +22,19 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.IMAGINITE_BAR.get());
 
                         pOutput.accept(ModBlocks.IMAGINITE_BLOCK.get());
+                        pOutput.accept(ModBlocks.IMAGINITE_STAIRS.get());
+                        pOutput.accept(ModBlocks.IMAGINITE_SLAB.get());
+                        pOutput.accept(ModBlocks.IMAGINITE_BUTTON.get());
+                        pOutput.accept(ModBlocks.IMAGINITE_PRESSURE_PLATE.get());
+                        pOutput.accept(ModBlocks.IMAGINITE_FENCE.get());
+                        pOutput.accept(ModBlocks.IMAGINITE_FENCE_GATE.get());
+                        pOutput.accept(ModBlocks.IMAGINITE_WALL.get());
+                        pOutput.accept(ModBlocks.IMAGINITE_DOOR.get());
+                        pOutput.accept(ModBlocks.IMAGINITE_TRAPDOOR.get());
+
                         pOutput.accept(ModBlocks.IMAGINATION_ESSENCE_BLOCK.get());
+
+                        pOutput.accept(ModItems.SNOZZBERRY.get());
                     })
                     .build());
 

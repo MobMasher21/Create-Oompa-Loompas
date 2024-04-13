@@ -11,11 +11,11 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "create_oompa_loompas:imaginite_block"
+          "name": "create_oompa_loompas:imaginite_stairs"
         }
       ],
       "rolls": 1.0
     }
   ],
-  "random_sequence": "create_oompa_loompas:block/imaginite_block"
+  "random_sequence": "create_oompa_loompas:block/imaginite_stairs"
 }

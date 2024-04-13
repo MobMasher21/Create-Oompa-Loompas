@@ -2,46 +2,46 @@
   "multipart": [
     {
       "apply": {
-        "model": "tutorialmod:block/sapphire_fence_post"
+        "model": "create_oompa_loompas:block/imaginite_fence_post"
       }
     },
     {
       "apply": {
-        "model": "tutorialmod:block/sapphire_fence_side",
+        "model": "create_oompa_loompas:block/imaginite_fence_side",
         "uvlock": true
       },
       "when": {
-        "north": "True"
+        "north": "true"
       }
     },
     {
       "apply": {
-        "model": "tutorialmod:block/sapphire_fence_side",
+        "model": "create_oompa_loompas:block/imaginite_fence_side",
         "uvlock": true,
         "y": 180
       },
       "when": {
-        "south": "True"
+        "south": "true"
       }
     },
     {
       "apply": {
-        "model": "tutorialmod:block/sapphire_fence_side",
+        "model": "create_oompa_loompas:block/imaginite_fence_side",
         "uvlock": true,
         "y": 270
       },
       "when": {
-        "west": "True"
+        "west": "true"
       }
     },
     {
       "apply": {
-        "model": "tutorialmod:block/sapphire_fence_side",
+        "model": "create_oompa_loompas:block/imaginite_fence_side",
         "uvlock": true,
         "y": 90
       },
       "when": {
-        "east": "True"
+        "east": "true"
       }
     }
   ]
